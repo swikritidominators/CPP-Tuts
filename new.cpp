@@ -35,3 +35,71 @@
 //     return 0;
 // }
 
+// #include <iostream>
+// using namespace std;
+// int main(){
+//    int number;
+//    cout<<"enter number: ";
+//    cin>>number;
+
+//    if(number % 2==0){
+//     cout<<"Number is even";
+//     cout<<endl;
+//    } else{
+// cout<<"Number is odd";
+// cout<<endl;
+//    }
+// }
+
+
+// #include <iostream>
+// using namespace std;
+// int main(){
+//    int number;
+//    cout<<"enter number: ";
+//    cin>>number;
+//    if(number % 2==0){
+//     cout<<"Number is even";
+//     cout<<endl;
+//    } else{
+// cout<<"Number is odd";
+// cout<<endl;
+//    }
+// }
+
+
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int marks;
+//     cout<< "enter marks:";
+//     cin>>marks;
+
+//     if (marks>=90){
+//         cout<< "A";
+//         cout<<endl;
+//     } else if (marks>=80 && marks<90){
+//         cout<< "B";
+//         cout<<endl;
+//     } else{
+//         cout<< "C";
+//         cout<<endl;
+//     }
+//     return 0;
+// }
+
+// # include<iostream>
+// using namespace std;
+// int main(){
+//     char ch;
+//     cout<<"Enter character";
+//     cin>> ch;
+// if(ch>='a' && ch<='z'){
+// cout<< "This is a lowercase alphabet";
+// cout<<endl; 
+// }else {
+//     cout<<"This is an uppercase alphabet";
+//     cout<<endl;
+// }
+//     return 0;
+// }
